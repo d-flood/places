@@ -1,0 +1,46 @@
+{
+	"formatVersion": 1,
+	"name": "Wisconsin",
+	"updatedAt": "2026-08-20T18:28:20.314Z",
+	"layers": [
+		{
+			"kind": "annotation",
+			"id": "249e85af-06af-4644-9661-532b4e03defb",
+			"name": "Current Locations",
+			"visible": true,
+			"order": 0,
+			"geojsonRef": "annotations/249e85af-06af-4644-9661-532b4e03defb.geojson"
+		},
+		{
+			"kind": "annotation",
+			"id": "54f5139f-cd3f-4876-90aa-bbb98721ac91",
+			"name": "Previous Locations",
+			"visible": true,
+			"order": 1,
+			"geojsonRef": "annotations/54f5139f-cd3f-4876-90aa-bbb98721ac91.geojson"
+		},
+		{
+			"kind": "map",
+			"id": "6592f484-f817-4e7e-bc5c-a4e910fbd58c",
+			"name": "wisconsin.jpg",
+			"visible": true,
+			"order": 2,
+			"opacity": 0.55,
+			"imageId": "321b913f0f9fb20d"
+		}
+	],
+	"baseMap": null,
+	"onFrontPage": false,
+	"importProvenance": [
+		{
+			"kind": "github",
+			"owner": "artshumrc",
+			"repository": "ballastella-projects",
+			"branch": "main",
+			"directory": "test",
+			"commit": "ee01142425422870565bdd7355d1837c56b3dcd3",
+			"observedAt": "2026-08-24T14:14:15.488Z",
+			"evidence": "observed"
+		}
+	]
+}

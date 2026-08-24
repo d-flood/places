@@ -1,0 +1,124 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "db6c0a16-dc25-41b4-b793-861a9c288c7b",
+			"properties": {
+				"marker-color": "#388e3c",
+				"stroke": "#555555",
+				"fill": "#555555",
+				"title": "Edgerton, WI"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.0693988,
+					42.8334758
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "92b87a2f-5d84-41c5-bc45-1a4ba0f82d66",
+			"properties": {
+				"marker-color": "#388e3c",
+				"stroke": "#555555",
+				"fill": "#555555",
+				"title": "Jenkins Hall, Chicago"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-87.6336028,
+					41.9003143
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "d5bc28e7-0cb3-49e3-adb9-cad0af5919bf",
+			"properties": {
+				"marker-color": "#388e3c",
+				"stroke": "#555555",
+				"fill": "#555555",
+				"title": "Dallas, TX"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.7968559,
+					32.7762719
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "76dc5e3d-b609-48bc-840f-92bd2c6ee5b4",
+			"properties": {
+				"marker-color": "#388e3c",
+				"stroke": "#555555",
+				"fill": "#555555",
+				"title": "Edinburgh, UK"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.1883749,
+					55.9533456
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "ed39533c-54b8-4c85-a2f8-9eaab44ebbdd",
+			"properties": {
+				"marker-color": "#388e3c",
+				"stroke": "#555555",
+				"fill": "#555555",
+				"title": "Princeton, TX"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.4980424,
+					33.1801161
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "4def9d43-c749-4874-80ae-423fc83636c6",
+			"properties": {
+				"marker-color": "#388e3c",
+				"stroke": "#555555",
+				"fill": "#555555",
+				"title": "Freeport, IL"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.6212271,
+					42.2966861
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "526607d5-85c6-49f9-b9b8-4297c5e2d1e8",
+			"properties": {
+				"marker-color": "#388e3c",
+				"stroke": "#555555",
+				"fill": "#555555",
+				"title": "Rockton, IL"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.0723317,
+					42.4525157
+				]
+			}
+		}
+	]
+}

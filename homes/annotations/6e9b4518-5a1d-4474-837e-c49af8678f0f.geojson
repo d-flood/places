@@ -1,0 +1,170 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "b72a03cd-1fe2-49e7-9c4f-8191fa4a7086",
+			"properties": {
+				"marker-color": "#555555",
+				"stroke": "#000000",
+				"fill": "#555555",
+				"title": "Moved to Chicago"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-89.02526030576536,
+						42.82008352970121
+					],
+					[
+						-87.69246001675518,
+						41.999481027473024
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "e44176a1-7c71-456b-8f09-befccfd8710e",
+			"properties": {
+				"marker-color": "#555555",
+				"stroke": "#d32f2f",
+				"fill": "#555555",
+				"title": "Move back to Edgerton"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-87.631460041044,
+						42.03944410521149
+					],
+					[
+						-89.00476324304927,
+						42.877187947374864
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "280ea990-6ed9-4927-80da-0f6eb93f25c1",
+			"properties": {
+				"marker-color": "#555555",
+				"stroke": "#1976d2",
+				"fill": "#555555",
+				"title": "Move to Dallas"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-89.07445325628514,
+						42.83511612635999
+					],
+					[
+						-96.79915280315875,
+						32.85060264553282
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "373661c1-c87e-44fd-a45d-b96c76c87039",
+			"properties": {
+				"marker-color": "#555555",
+				"stroke": "#388e3c",
+				"fill": "#555555",
+				"title": "Move to Edinburgh",
+				"stroke-width": 3.5
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-96.70025951640342,
+						32.81135973161983
+					],
+					[
+						-3.2257358803130387,
+						55.9646920061559
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "43e66523-53eb-4ae1-832c-d3229b727279",
+			"properties": {
+				"marker-color": "#555555",
+				"stroke": "#7b1fa2",
+				"stroke-width": 1.5,
+				"fill": "#555555",
+				"title": "Move back to Texas"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-3.212311102637557,
+						55.95309502115907
+					],
+					[
+						-96.48594042342633,
+						33.19033093862406
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "b68759f6-245a-4b3c-b8a6-20419adcc886",
+			"properties": {
+				"marker-color": "#555555",
+				"stroke": "#fbc02d",
+				"stroke-width": 1.5,
+				"fill": "#555555",
+				"title": "Move to NE IL"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-96.48959176107816,
+						33.226974679690784
+					],
+					[
+						-89.63481300403454,
+						42.29869112953642
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "83fb42b5-ebca-4630-b175-0ab542886fe0",
+			"properties": {
+				"marker-color": "#555555",
+				"stroke": "#fbc02d",
+				"stroke-width": 1.5,
+				"fill": "#555555",
+				"title": "Move to Central WI/IL border"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-89.5978666560229,
+						42.31255933373461
+					],
+					[
+						-89.09471741792689,
+						42.459485086831734
+					]
+				]
+			}
+		}
+	]
+}

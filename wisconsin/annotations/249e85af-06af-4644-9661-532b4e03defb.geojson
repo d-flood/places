@@ -1,0 +1,43 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "51008590-bb50-4ad9-a0a4-9d2aa3b628c3",
+			"properties": {
+				"marker-color": "#1976d2",
+				"stroke": "#555555",
+				"fill": "#555555",
+				"title": "David's current neighborhood",
+				"description": "Known to residents as \"the stateline\"",
+				"marker-size": "large"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.04305736328035,
+					42.4452227160817
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "71bfc4c2-9b49-4902-a204-079c050b72d1",
+			"properties": {
+				"marker-size": "medium",
+				"marker-color": "#000000",
+				"stroke": "#555555",
+				"fill": "#ffffff",
+				"marker-symbol": "label",
+				"title": "I'm a text label!"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-90.30907000366712,
+					43.640711165358766
+				]
+			}
+		}
+	]
+}

@@ -1,0 +1,85 @@
+{
+	"formatVersion": 2,
+	"viewerVersion": "cc658ff79564b164",
+	"publishedAt": "2026-08-24T14:59:15.814Z",
+	"editorUrl": "https://artshumrc.github.io/ballastella/",
+	"repository": {
+		"owner": "d-flood",
+		"repository": "places",
+		"branch": "main"
+	},
+	"projects": [
+		{
+			"directory": "homes",
+			"name": "Homes",
+			"onFrontPage": true
+		},
+		{
+			"directory": "wisconsin",
+			"name": "Wisconsin",
+			"onFrontPage": false
+		}
+	],
+	"baseMap": {
+		"entries": [
+			{
+				"id": "streets",
+				"label": "Streets",
+				"needsNetwork": true,
+				"archive": "https://data.source.coop/protomaps/openstreetmap/v4.pmtiles",
+				"emphasis": "streets-and-labels",
+				"flavor": {
+					"light": "light",
+					"dark": "dark"
+				}
+			},
+			{
+				"id": "physical",
+				"label": "Physical geography",
+				"needsNetwork": true,
+				"archive": "https://data.source.coop/protomaps/openstreetmap/v4.pmtiles",
+				"emphasis": "water-and-terrain",
+				"flavor": {
+					"light": "light",
+					"dark": "dark"
+				}
+			},
+			{
+				"id": "muted",
+				"label": "Muted, high contrast",
+				"needsNetwork": true,
+				"archive": "https://data.source.coop/protomaps/openstreetmap/v4.pmtiles",
+				"emphasis": "streets-and-labels",
+				"flavor": {
+					"light": "grayscale",
+					"dark": "black"
+				}
+			},
+			{
+				"id": "streets-worldwide",
+				"label": "Streets, worldwide",
+				"needsNetwork": true,
+				"archive": "https://data.source.coop/protomaps/openstreetmap/v4.pmtiles",
+				"emphasis": "streets-and-labels",
+				"flavor": {
+					"light": "light",
+					"dark": "dark"
+				}
+			}
+		],
+		"defaultId": "streets",
+		"initialView": {
+			"center": [
+				4.9041,
+				52.3676
+			],
+			"zoom": 13
+		},
+		"glyphs": "base-map/fonts/{fontstack}/{range}.pbf",
+		"sprite": "base-map/sprites/{flavor}",
+		"attribution": "<a href=\"https://openstreetmap.org/copyright\" target=\"_blank\" rel=\"noreferrer\">© OpenStreetMap</a> · <a href=\"https://protomaps.com\" target=\"_blank\" rel=\"noreferrer\">Protomaps</a>"
+	},
+	"baseMapBundled": false,
+	"baseMapAssetsBundled": true,
+	"baseMapCaches": []
+}

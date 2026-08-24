@@ -1,0 +1,24 @@
+{
+	"formatVersion": 1,
+	"name": "Homes",
+	"updatedAt": "2026-08-24T14:37:44.035Z",
+	"layers": [
+		{
+			"kind": "annotation",
+			"id": "6e9b4518-5a1d-4474-837e-c49af8678f0f",
+			"name": "Annotations 2",
+			"visible": true,
+			"order": 0,
+			"geojsonRef": "annotations/6e9b4518-5a1d-4474-837e-c49af8678f0f.geojson"
+		},
+		{
+			"kind": "annotation",
+			"id": "e547cd1e-fad0-4b07-91fc-8d1a689545bb",
+			"name": "Homes",
+			"visible": true,
+			"order": 1,
+			"geojsonRef": "annotations/e547cd1e-fad0-4b07-91fc-8d1a689545bb.geojson"
+		}
+	],
+	"baseMap": null
+}
